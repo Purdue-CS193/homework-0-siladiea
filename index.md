@@ -14,9 +14,13 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+# Alex Siladie's First CS193 Homework
 
 - Bulleted
 - List
+- No tests
+- Edstem community
+- Learning to use GitHub
 
 1. Numbered
 2. List
